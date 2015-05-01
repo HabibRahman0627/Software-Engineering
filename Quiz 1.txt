@@ -1,0 +1,9 @@
+3 important reasons of iterative development:
+
+1. Enables and encourages user feedback.
+2. Development focuses on critical issues.
+3. Inconsistencies detected early.
+
+Most important for our MUMScrum project: Development focuses on critical issues.
+
+Reason: As our time period is limited, we should focus on to develop the critical issues of mumScrum project.
